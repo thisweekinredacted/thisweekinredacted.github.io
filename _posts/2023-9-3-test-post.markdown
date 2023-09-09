@@ -4,7 +4,7 @@ title:  "[Podcase] # -4: Bootstrap"
 date:   2023-9-3
 ---
 
-<p class="intro"><span class="dropcap">L</span>Plagued with audio errors, Chris and Ryan discuss The Chicago O'Hare UFO sighting, the newly announced official website for US government personnel to report UFO sightings, top news from /r/UFOs and bigfoot.</p>
+<p class="intro"><span class="dropcap"></span>Plagued with audio errors, Chris and Ryan discuss The Chicago O'Hare UFO sighting, the newly announced official website for US government personnel to report UFO sightings, top news from /r/UFOs and bigfoot.</p>
 
 <!-- Add a placeholder for the Twitch embed -->
 <div id="twitch-embed"></div>
