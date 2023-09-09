@@ -1,0 +1,41 @@
+title: This week in [Redacted]
+email: redacted@thisweekinredacted.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Paranormal podcast, UFOs, conspiracy theories, supernatural topics, engaging stories, optimized titles, meta descriptions, shareable content, listener reviews, expert interviews, consistent schedule, trending theories, keyword-rich descriptions, captivating episodes, audience engagement, mysterious phenomena, alien encounters, government cover-ups, paranormal investigations, unexplained mysteries, haunted places, cryptids, secret societies, strange occurrences, fringe science, ancient mysteries, extraterrestrial life, paranormal evidence, conspiracy revelations, supernatural phenomena.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thisweekinredacted.com" # the base hostname & protocol for your site, e.g. http://example.com
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+twitter_username: thisweekinredacted
+github_username:  thisweekinredacted
+
+# Header Option
+# header: large
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+    - title: Home
+      url: /index.html
+    - title: About
+      url: /about
+    - title: Contact
+      url: /contact
+
+social:
+    github: thisweekinredacted
+    twitter: thisweekinredacted
+    facebook: thisweekinredacted
+    email: redacted@thisweekinredacted.com
+
+google_analytics: "UA-58263416-1"
+
+discord:
+    shortname: thisweekinredacted
