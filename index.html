@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Long Haul
+title: This week in [Redacted]
 ---
 
 <div class="home" id="home">
-	<h1 class="pageTitle">Recent Posts</h1>
 	<div class="posts noList">
 		{%- for post in paginator.posts -%}
 		<article>
@@ -25,11 +24,11 @@ title: Long Haul
 		<a
 			href="{{ paginator.previous_page_path }}"
 			class="previous button__outline"
-			>Newer Posts</a
+			>Newer</a
 		>
 		{%- endif -%} {%- if paginator.next_page -%}
 		<a href="{{ paginator.next_page_path }}" class="next button__outline"
-			>Older Posts</a
+			>Older</a
 		>
 		{%- endif -%}
 	</div>
