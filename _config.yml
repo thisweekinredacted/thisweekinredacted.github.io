@@ -7,7 +7,7 @@ url: "https://thisweekinredacted.com" # the base hostname & protocol for your si
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-twitter_username: thisweekinredacted
+twitter_username: weeklyredacted
 github_username:  thisweekinredacted
 
 # Header Option
@@ -31,7 +31,7 @@ navigation:
 
 social:
     github: thisweekinredacted
-    twitter: thisweekinredacted
+    twitter: weeklyredacted
     facebook: thisweekinredacted
     email: redacted@thisweekinredacted.com
 
