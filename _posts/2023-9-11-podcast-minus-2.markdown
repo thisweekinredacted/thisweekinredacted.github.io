@@ -9,8 +9,7 @@ td, th {
 }
 </style>
 
-| Column One    | Column Two    |   Col three  |                                                                                                                                              
-| ---           | ---           | ---              |                                                                                                                                    
+| ---           | ---           | ---              |
 | ⬆ 4782 | 💬904 |  [The MH370 Videos Are Real...](https://www.reddit.com/r/conspiracy/comments/16gom4a/the_mh370_videos_are_real/)
 | ⬆ 56273 | 💬2183 |  [Made my own Peru Alien mummy. Began work...](https://i.redd.it/wxno3xo292ob1.png)
 
