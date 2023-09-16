@@ -3,17 +3,9 @@ layout: post
 title:  "[Podcast] # -2: Bootstrap"
 date:   2023-9-11
 ---
-
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
 
