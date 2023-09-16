@@ -24,7 +24,7 @@ FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Rya
 
  <br>
 
-| ** Most Controversial**      |               |               |               |               |
+| **Most Controversial**              |               |               |               |               |
 | --- | --- | --- | --- | --- |
 |**Aliens** | ⬆ 44621 | 💬 10953 |  [More Photos from Mexico UFO Hearings...](https://www.reddit.com/gallery/16hb3u7)| 🌶️ 0.67|
 |**Aliens** | ⬆ 14747 | 💬 4396 |  [Aliens revealed at UAP Mexico Hearing...](https://i.redd.it/210vrxj85xnb1.jpg)| 🌶️ 0.74|
