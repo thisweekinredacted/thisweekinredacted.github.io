@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "[Podcast] # -2: Bootstrap"
-date:   2023-9-11
+date:   2023-9-17
 ---
+
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
 
 <style>
 td, th {
    border: none!important;
 }
 </style>
-
-FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
 
 <br>
 
