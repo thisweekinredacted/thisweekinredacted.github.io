@@ -10,7 +10,7 @@ title: Your New Jekyll Site
       <li>
       	<span class="date">{{ post.date | date_to_string }}</span>
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      	<p class="description">{%- if post.description -%}{{ post.description | truncate: 420 }}{%- else -%}{{ post.content | strip_newlines | truncate: 120 }}{%- endif -%}</p>
+      	<p class="description">{%- if post.description -%}{{ post.description | truncate: 120 }}{%- else -%}{{ post.content | strip_newlines | truncate: 420 }}{%- endif -%}</p>
       </li>
     {%- endfor -%}
   </ul>

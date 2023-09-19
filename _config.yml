@@ -11,7 +11,7 @@ twitter_username: weeklyredacted
 github_username:  thisweekinredacted
 
 # Header Option
-# header: large
+header: large
 
 sass:
     style: compressed
@@ -32,7 +32,6 @@ navigation:
 social:
     github: thisweekinredacted
     twitter: weeklyredacted
-    facebook: thisweekinredacted
     email: redacted@thisweekinredacted.com
 
 google_analytics: "UA-58263416-1"
