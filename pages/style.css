@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+body {
+  font-family: "Special Elite", cursive;
+  line-height: 1.5;
+}
+
+.MKUltra {
+  color: crimson;
+}
+
+.redacted {
+  position: relative;
+  white-space: pre;
+}
+.redacted:after {
+  background-color: black;
+  content: " ";
+  width: 100%;
+  height: 1.25em;
+  left: 0;
+  position: absolute;
+  transform: skewY(-5deg) rotate(5deg);
+  text-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+  transition: 1s;
+}
+
+.redacted:hover:after {
+  background-color: transparent;
+  transition: 1s;
+}
+
+.c-methods {
+  display: grid;
+  grid-template-rows: 0.0fr 0.0fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 5px;
+}
+.c-methods .c-methods_bio {
+  grid-row: 1;
+  grid-column: 1;
+}
+.c-methods .c-methods_che {
+  grid-row: 1;
+  grid-column: 2;
+}
+.c-methods .c-methods_rad {
+  grid-row: 1;
+  grid-column: 3;
+}
+.c-methods .c-methods_psy {
+  grid-row: 1;
+  grid-column: 4;
+}
+
+div {
+  padding: 1em;
+}
