@@ -1,0 +1,15 @@
+---
+title: [Show Notes] # -2: Bootstrap
+layout: post
+date: 2023-09-24
+---
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 57216 | 💬 2206 |  [Made my own Peru Alien mummy. Began work...](https://i.redd.it/wxno3xo292ob1.png)| 🌶️ 0.86|
+|**Crime** | ⬆ 5704 | 💬 490 |  [In 2007, two videos were posted on the i...](https://www.fbi.gov/wanted/ecap/unknown-suspect-1)| 🌶️ 0.99|
+|**Consipiracy** | ⬆ 4845 | 💬 906 |  [The MH370 Videos Are Real...](https://www.reddit.com/r/conspiracy/comments/16gom4a/the_mh370_videos_are_real/)| 🌶️ 0.92|
+|**Paranormal** | ⬆ 1656 | 💬 350 |  [My one and only Ghost Photo taken in the...](https://i.redd.it/pv46ovskzynb1.jpg)| 🌶️ 0.88|
+|**Cryptozoology** | ⬆ 1646 | 💬 204 |  [Think we saw something....](https://v.redd.it/jl3r7mkkyhob1)| 🌶️ 0.96|
