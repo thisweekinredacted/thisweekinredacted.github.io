@@ -1,5 +1,5 @@
 ---
-title: [Show Notes] # -2: Bootstrap
+title: [Show Notes] # -1: Bootstrap
 layout: post
 date: 2023-09-24
 ---
