@@ -38,7 +38,7 @@ body {
 .c-methods .c-methods_bio {
   grid-row: 1;
   grid-column: 1;
-  font-size: 120px;
+  font-size: 120px !important;
 }
 .c-methods .c-methods_che {
   grid-row: 1;
