@@ -38,22 +38,22 @@ body {
 .c-methods .c-methods_bio {
   grid-row: 1;
   grid-column: 1;
-  font-size: 72px !important;
+  font-size: 36px !important;
 }
 .c-methods .c-methods_che {
   grid-row: 1;
   grid-column: 2;
-  font-size: 72px !important;
+  font-size: 36px !important;
 }
 .c-methods .c-methods_rad {
   grid-row: 1;
   grid-column: 3;
-  font-size: 72px !important;
+  font-size: 36px !important;
 }
 .c-methods .c-methods_psy {
   grid-row: 1;
   grid-column: 4;
-  font-size: 72px !important;
+  font-size: 36px !important;
 }
 
 div {
