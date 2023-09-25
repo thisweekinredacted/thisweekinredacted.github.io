@@ -3,7 +3,6 @@ title: [Show Notes] # -1: Bootstrap
 layout: post
 date: 2023-09-24
 ---
-FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
 <style> td, th { border: none!important;} </style> <br>
 
 | **Highest Upvotes**              |               |               |               |               |
