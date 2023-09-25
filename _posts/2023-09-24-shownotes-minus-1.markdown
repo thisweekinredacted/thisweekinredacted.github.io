@@ -3,6 +3,9 @@ title: [Show Notes] # -1: Bootstrap
 layout: post
 date: 2023-09-24
 ---
+
+This week we discuss everything from the enigmatic Nazca Caves to media bias, crime, paranormal experiences, and the elusive world of cryptozoology!
+
 <style> td, th { border: none!important;} </style> <br>
 
 | **Highest Upvotes**              |               |               |               |               |
