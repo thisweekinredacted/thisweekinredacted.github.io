@@ -1,0 +1,15 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-10-15
+---
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4771 | 💬 272 |  [The last month in a nuttshell....](/r/aliens/comments/175c8oe/the_last_month_in_a_nuttshell/)| 🌶️ 0.95|
+|**Consipiracy** | ⬆ 3891 | 💬 753 |  [Question everything you see...](/r/conspiracy/comments/1771sjn/question_everything_you_see/)| 🌶️ 0.85|
+|**Crime** | ⬆ 2990 | 💬 241 |  [Oklahoma mom pleaded guilty for allowing...](/r/MorbidReality/comments/1756el4/oklahoma_mom_pleaded_guilty_for_allowing_her/)| 🌶️ 0.99|
+|**Cryptozoology** | ⬆ 2256 | 💬 340 |  [Bigfoot reportedly spotted from train in...](/r/Cryptozoology/comments/175gxf5/bigfoot_reportedly_spotted_from_train_in_remote/)| 🌶️ 0.88|
+|**Paranormal** | ⬆ 2131 | 💬 408 |  [Weird experience and voice caught on vid...](/r/Ghosts/comments/1753fmo/weird_experience_and_voice_caught_on_video_today/)| 🌶️ 0.94|
