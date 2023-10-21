@@ -1,0 +1,15 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-10-22
+---
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 14423 | 💬 1327 |  [Flying saucer captured on video over Col...](/r/aliens/comments/17a9x2l/flying_saucer_captured_on_video_over_columbia_two/)| 🌶️ 0.77|
+|**Crime** | ⬆ 3780 | 💬 99 |  [Missing 18 yo boy, after being unsuccess...](/r/MorbidReality/comments/179ox5v/missing_18_yo_boy_after_being_unsuccessfully/)| 🌶️ 0.99|
+|**Consipiracy** | ⬆ 2837 | 💬 397 |  [It's an example of Mirror Propaganda...](/r/conspiracy/comments/17870mz/its_an_example_of_mirror_propaganda/)| 🌶️ 0.85|
+|**Paranormal** | ⬆ 1936 | 💬 212 |  [Finally, after 12 years in this house, m...](/r/Ghosts/comments/178kxkv/finally_after_12_years_in_this_house_my_husband/)| 🌶️ 0.95|
+|**Cryptozoology** | ⬆ 478 | 💬 101 |  [An old encounter...](/r/Humanoidencounters/comments/1785n47/an_old_encounter/)| 🌶️ 0.89|
