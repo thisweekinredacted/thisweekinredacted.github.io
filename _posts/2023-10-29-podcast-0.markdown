@@ -1,0 +1,15 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-10-29
+---
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 5750 | 💬 1541 |  [2,000 year old Nazca Lines in the desert...](/r/aliens/comments/17f3g2g/2000_year_old_nazca_lines_in_the_desert_that_can/)| 🌶️ 0.77|
+|**Consipiracy** | ⬆ 2969 | 💬 1189 |  [People Are Different Since The Pandemic...](/r/conspiracy/comments/17ejrv6/people_are_different_since_the_pandemic/)| 🌶️ 0.89|
+|**Paranormal** | ⬆ 2420 | 💬 462 |  [Picture is kinda freaking us out, no kid...](/r/Ghosts/comments/17f03ac/picture_is_kinda_freaking_us_out_no_kids_or_pets/)| 🌶️ 0.93|
+|**Crime** | ⬆ 1945 | 💬 140 |  [Found on Find A Grave...](/r/MorbidReality/comments/17eoheq/found_on_find_a_grave/)| 🌶️ 0.94|
+|**Cryptozoology** | ⬆ 982 | 💬 222 |  [Has anyone here ever seen Krampus or a h...](/r/Humanoidencounters/comments/17e1xom/has_anyone_here_ever_seen_krampus_or_a/)| 🌶️ 0.96|
