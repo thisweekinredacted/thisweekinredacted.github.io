@@ -1,0 +1,15 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-11-05
+---
+FREE OF AUDIO ISSUES FINALLY, yet still completely unlistenable... Chris and Ryan refine the format of the Podcast!  Our new opener *This week in Reddit* takes off with the top 5 upvoted posts from the netherealms followed by the top 5 most controversial posts.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Paranormal** | ⬆ 10545 | 💬 2287 |  [What do you see here? I'm on a work trip...](/r/Ghosts/comments/17mjj23/what_do_you_see_here_im_on_a_work_trip_and_scared/)| 🌶️ 0.82|
+|**Aliens** | ⬆ 5030 | 💬 1261 |  [Exact same UFO photographed in Mexico 19...](/r/aliens/comments/17mb0l0/exact_same_ufo_photographed_in_mexico_1993_and/)| 🌶️ 0.74|
+|**Crime** | ⬆ 3422 | 💬 114 |  [18 year old girl died jumping from bridg...](/r/MorbidReality/comments/17lks6g/18_year_old_girl_died_jumping_from_bridge_15/)| 🌶️ 0.99|
+|**Consipiracy** | ⬆ 2915 | 💬 894 |  [Wild...](/r/conspiracy/comments/17i4v4d/wild/)| 🌶️ 0.81|
+|**Cryptozoology** | ⬆ 871 | 💬 73 |  [Dark floating humanoid attacks farmer at...](/r/Humanoidencounters/comments/17iqs4w/dark_floating_humanoid_attacks_farmer_at_san/)| 🌶️ 0.98|
