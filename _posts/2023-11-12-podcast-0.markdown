@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-11-12
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 7761 | 💬 2428 |  [r/aliens finally gets its alien: The Uni...](/r/aliens/comments/17q7hnt/raliens_finally_gets_its_alien_the_university_of/)| 🌶️ 0.67|
+|**Paranormal** | ⬆ 5934 | 💬 658 |  [I work a job where I have to inspect hou...](/r/Ghosts/comments/17nkvce/i_work_a_job_where_i_have_to_inspect_houses_this/)| 🌶️ 0.96|
+|**Cryptozoology** | ⬆ 1934 | 💬 395 |  [opinions on this?? [NOT MY VIDEO!]...](/r/bigfoot/comments/17qbq29/opinions_on_this_not_my_video/)| 🌶️ 0.92|
+|**Consipiracy** | ⬆ 1777 | 💬 510 |  [Giant pentagram-like star in the middle ...](/r/conspiracy/comments/17nvna0/giant_pentagramlike_star_in_the_middle_of_the/)| 🌶️ 0.9|
