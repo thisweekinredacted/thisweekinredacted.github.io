@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-11-19
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Paranormal** | ⬆ 8461 | 💬 918 |  [In the jungle, the frightening jungle; n...](/r/Ghosts/comments/17ty717/in_the_jungle_the_frightening_jungle_no_one/)| 🌶️ 0.83|
+|**Consipiracy** | ⬆ 5087 | 💬 659 |  [Professional MMA fighter entered the are...](/r/conspiracy/comments/17sx778/professional_mma_fighter_entered_the_arena_last/)| 🌶️ 0.87|
+|**Aliens** | ⬆ 3759 | 💬 1038 |  [Video of “meteor” in Northern MN Nov. 13...](/r/UFOs/comments/17vf8c6/video_of_meteor_in_northern_mn_nov_13_630/)| 🌶️ 0.88|
+|**Cryptozoology** | ⬆ 2725 | 💬 133 |  [They found it....](/r/cryptids/comments/17t9fzk/they_found_it/)| 🌶️ 0.99|
