@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-11-26
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 6118 | 💬 1139 |  [Found this photo is my late grandmother’...](/r/aliens/comments/17za9bt/found_this_photo_is_my_late_grandmothers_heart/)| 🌶️ 0.79|
+|**Consipiracy** | ⬆ 2912 | 💬 611 |  [Absolutely insane.......](/r/conspiracy/comments/180u0uq/absolutely_insane/)| 🌶️ 0.88|
+|**Paranormal** | ⬆ 1281 | 💬 301 |  [My trail camera caught a figure moving l...](/r/Ghosts/comments/1823s9o/my_trail_camera_caught_a_figure_moving_left_to/)| 🌶️ 0.9|
+|**Cryptozoology** | ⬆ 825 | 💬 82 |  [I found one...](/r/cryptids/comments/182ahwa/i_found_one/)| 🌶️ 0.97|
