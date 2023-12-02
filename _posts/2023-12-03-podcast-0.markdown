@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-12-03
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 5670 | 💬 735 |  [Four Politicians are trying to kill the ...](/r/UFOs/comments/183dkea/four_politicians_are_trying_to_kill_the/)| 🌶️ 0.91|
+|**Consipiracy** | ⬆ 1933 | 💬 233 |  [The world just got a little safer....](/r/conspiracy/comments/1876sya/the_world_just_got_a_little_safer/)| 🌶️ 0.94|
+|**Paranormal** | ⬆ 906 | 💬 164 |  [At police statiton.........................](/r/Ghosts/comments/1851ted/at_police_statiton/)| 🌶️ 0.9|
+|**Cryptozoology** | ⬆ 619 | 💬 58 |  [The forgotten lore of supersized spiders...](/r/Cryptozoology/comments/184p126/the_forgotten_lore_of_supersized_spiders_in/)| 🌶️ 0.99|
