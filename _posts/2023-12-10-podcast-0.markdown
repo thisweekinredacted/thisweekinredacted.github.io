@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-12-10
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4154 | 💬 448 |  [Senator Schumer blames the House Republi...](/r/UFOs/comments/18aua4o/senator_schumer_blames_the_house_republicans_for/)| 🌶️ 0.9|
+|**Consipiracy** | ⬆ 2875 | 💬 392 |  [Well fuck...](/r/conspiracy/comments/18b8h0t/well_fuck/)| 🌶️ 0.97|
+|**Paranormal** | ⬆ 840 | 💬 238 |  [Was on a ghost walk in Charleston. Regul...](/r/Ghosts/comments/18bm0ec/was_on_a_ghost_walk_in_charleston_regular_picture/)| 🌶️ 0.84|
+|**Cryptozoology** | ⬆ 277 | 💬 70 |  [Discussing cryptozoology can be rough on...](/r/Cryptozoology/comments/18dpcx5/discussing_cryptozoology_can_be_rough_online/)| 🌶️ 0.93|
