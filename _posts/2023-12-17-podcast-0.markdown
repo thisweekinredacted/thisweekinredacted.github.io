@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2023-12-17
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4384 | 💬 234 |  [CNN just called out Mike Turner for bloc...](/r/UFOs/comments/18fc23y/cnn_just_called_out_mike_turner_for_blocking_ufo/)| 🌶️ 0.89|
+|**Paranormal** | ⬆ 3462 | 💬 727 |  [Does someone have an explanation 🤷‍♀️ lo...](/r/Ghosts/comments/18f1w1j/does_someone_have_an_explanation_look_by_the/)| 🌶️ 0.92|
+|**Consipiracy** | ⬆ 2197 | 💬 981 |  [How many of you watched it and instantly...](/r/conspiracy/comments/18gru7y/how_many_of_you_watched_it_and_instantly_knew_it/)| 🌶️ 0.78|
+|**Cryptozoology** | ⬆ 450 | 💬 136 |  [Footprint found last night in CA Sierras...](/r/bigfoot/comments/18hx84v/footprint_found_last_night_in_ca_sierras/)| 🌶️ 0.81|
