@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-01-07
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 6097 | 💬 1038 |  [Video of massive glowing red object over...](/r/UFOs/comments/18vgg1y/video_of_massive_glowing_red_object_over_the/)| 🌶️ 0.83|
+|**Paranormal** | ⬆ 3745 | 💬 438 |  [So My Fiance And I Had To Feed The Neigh...](/r/Ghosts/comments/18u8iee/so_my_fiance_and_i_had_to_feed_the_neighbors_cat/)| 🌶️ 0.9|
+|**Consipiracy** | ⬆ 2283 | 💬 432 |  [Any truth to this? Janet Ossebard had be...](/r/conspiracy/comments/18uhnjp/any_truth_to_this_janet_ossebard_had_been_missing/)| 🌶️ 0.9|
+|**Cryptozoology** | ⬆ 303 | 💬 102 |  [Sign posted on the Sunshine Coast, Briti...](/r/bigfoot/comments/18xxvk7/sign_posted_on_the_sunshine_coast_british_columbia/)| 🌶️ 0.97|
