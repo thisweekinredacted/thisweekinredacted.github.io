@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-01-14
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 14931 | 💬 5018 |  [The Jellyfish UFO Clip ...](/r/UFOs/comments/1925u2v/the_jellyfish_ufo_clip/)| 🌶️ 0.84|
+|**Consipiracy** | ⬆ 2856 | 💬 942 |  [Why were there stained mattresses and ba...](/r/conspiracy/comments/192l457/why_were_there_stained_mattresses_and_baby_high/)| 🌶️ 0.92|
+|**Paranormal** | ⬆ 1787 | 💬 141 |  [Took this spooky pic back in 2009 at Oxf...](/r/Ghosts/comments/1940x0u/took_this_spooky_pic_back_in_2009_at_oxford/)| 🌶️ 0.93|
+|**Cryptozoology** | ⬆ 795 | 💬 203 |  [I've been obsessed with this image for y...](/r/Cryptozoology/comments/192fmuu/ive_been_obsessed_with_this_image_for_years_my/)| 🌶️ 0.95|
