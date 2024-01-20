@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-01-21
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4120 | 💬 1151 |  [Mentioning Interdimensional beings shows...](/r/UFOs/comments/195l1x9/mentioning_interdimensional_beings_shows_the/)| 🌶️ 0.85|
+|**Consipiracy** | ⬆ 2665 | 💬 294 |  [Lmao, someone actually did it! Community...](/r/conspiracy/comments/195ou9k/lmao_someone_actually_did_it_community_notes_took/)| 🌶️ 0.88|
+|**Paranormal** | ⬆ 731 | 💬 142 |  [Yelling at ghosts might actually be more...](/r/Ghosts/comments/195z75t/yelling_at_ghosts_might_actually_be_more/)| 🌶️ 0.93|
+|**Cryptozoology** | ⬆ 348 | 💬 60 |  [I was watching a Europe vs America meme ...](/r/Cryptozoology/comments/196202w/i_was_watching_a_europe_vs_america_meme_and_then/)| 🌶️ 0.92|
