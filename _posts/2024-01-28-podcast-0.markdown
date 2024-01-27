@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-01-28
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4157 | 💬 962 |  [This is the greatest triangle craft vide...](/r/UFOs/comments/19e6nam/this_is_the_greatest_triangle_craft_video_ever/)| 🌶️ 0.88|
+|**Cryptozoology** | ⬆ 3454 | 💬 1205 |  [Terrifying sounds in eastern Canada ...](/r/bigfoot/comments/19dbp2e/terrifying_sounds_in_eastern_canada/)| 🌶️ 0.9|
+|**Consipiracy** | ⬆ 2157 | 💬 360 |  [The United States took Flight MH370...](/r/conspiracy/comments/19dr9z6/the_united_states_took_flight_mh370/)| 🌶️ 0.93|
+|**Paranormal** | ⬆ 1567 | 💬 144 |  [Van outside my window said “sample”, 20 ...](/r/GlitchInTheMatrix/comments/19es3zm/van_outside_my_window_said_sample_20_minutes/)| 🌶️ 0.9|
