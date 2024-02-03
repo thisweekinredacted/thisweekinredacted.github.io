@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-02-04
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4556 | 💬 799 |  [1979 NFL game halted due to unknown obje...](/r/aliens/comments/1ags8kg/1979_nfl_game_halted_due_to_unknown_objects_above/)| 🌶️ 0.85|
+|**Consipiracy** | ⬆ 1800 | 💬 293 |  [Human hunting lodge: The Black Forest...](/r/conspiracy/comments/1ad5awj/human_hunting_lodge_the_black_forest/)| 🌶️ 0.92|
+|**Paranormal** | ⬆ 860 | 💬 80 |  [They saved my aunt’s life that night… wh...](/r/Ghosts/comments/1aduvtl/they_saved_my_aunts_life_that_night_whoever_they/)| 🌶️ 0.97|
+|**Cryptozoology** | ⬆ 441 | 💬 486 |  [Quick someone name this creature!!...](/r/cryptids/comments/1afzcy2/quick_someone_name_this_creature/)| 🌶️ 0.98|
