@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-03-03
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Consipiracy** | ⬆ 3532 | 💬 815 |  [Ding-dong, the witch is dead!...](/r/conspiracy/comments/1b0ffpl/dingdong_the_witch_is_dead/)| 🌶️ 0.91|
+|**Aliens** | ⬆ 3012 | 💬 450 |  [Dave Grusch - "I always complete my miss...](/r/UFOs/comments/1b3bio9/dave_grusch_i_always_complete_my_missions_ill/)| 🌶️ 0.9|
+|**Paranormal** | ⬆ 1938 | 💬 41 |  [The corn glitched...](/r/GlitchInTheMatrix/comments/1az2d8r/the_corn_glitched/)| 🌶️ 0.99|
+|**Cryptozoology** | ⬆ 323 | 💬 70 |  [I may have found a job…...](/r/bigfoot/comments/1b1dbnd/i_may_have_found_a_job/)| 🌶️ 0.97|
