@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-03-10
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 3263 | 💬 565 |  [This is the most compelling UFO footage ...](/r/UFOs/comments/1b6bpvn/this_is_the_most_compelling_ufo_footage_captured/)| 🌶️ 0.9|
+|**Consipiracy** | ⬆ 1999 | 💬 929 |  [What’s going on with Ryan Garcia??...](/r/conspiracy/comments/1b7fyzb/whats_going_on_with_ryan_garcia/)| 🌶️ 0.92|
+|**Paranormal** | ⬆ 1684 | 💬 447 |  [FINALLY caught something on camera!  She...](/r/Ghosts/comments/1ba2058/finally_caught_something_on_camera_she_said_hi/)| 🌶️ 0.91|
+|**Cryptozoology** | ⬆ 1170 | 💬 228 |  [I found it...](/r/Humanoidencounters/comments/1b4xj61/i_found_it/)| 🌶️ 0.94|
