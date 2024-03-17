@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-03-17
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Consipiracy** | ⬆ 4834 | 💬 360 |  [This is an actual, real life, conspiracy...](/r/conspiracy/comments/1bdgtlq/this_is_an_actual_real_life_conspiracy/)| 🌶️ 0.96|
+|**Aliens** | ⬆ 2788 | 💬 178 |  [Breaking Points segment on AARO's Histor...](/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/)| 🌶️ 0.92|
+|**Cryptozoology** | ⬆ 468 | 💬 103 |  [A strange encounter near a government fa...](/r/Humanoidencounters/comments/1bgad4l/a_strange_encounter_near_a_government_facility/)| 🌶️ 0.97|
+|**Paranormal** | ⬆ 262 | 💬 76 |  [Weird tree around the corner from my hou...](/r/GlitchInTheMatrix/comments/1bbowvy/weird_tree_around_the_corner_from_my_house/)| 🌶️ 0.75|
