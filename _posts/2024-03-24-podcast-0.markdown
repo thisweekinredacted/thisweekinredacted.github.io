@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-03-24
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Consipiracy** | ⬆ 2982 | 💬 693 |  [US Friends no longer with Niger. ...](/r/conspiracy/comments/1bgjn5u/us_friends_no_longer_with_niger/)| 🌶️ 0.92|
+|**Aliens** | ⬆ 2911 | 💬 396 |  [Ret. US Navy Rear Admiral Tim Gallaudet:...](/r/UFOs/comments/1bisyyu/ret_us_navy_rear_admiral_tim_gallaudet_i_am/)| 🌶️ 0.89|
+|**Cryptozoology** | ⬆ 725 | 💬 149 |  [A strange encounter near a government fa...](/r/Humanoidencounters/comments/1bgad4l/a_strange_encounter_near_a_government_facility/)| 🌶️ 0.97|
+|**Paranormal** | ⬆ 436 | 💬 134 |  [Bought an antique ash tray and we starte...](/r/Ghosts/comments/1bhbvmw/bought_an_antique_ash_tray_and_we_started_seeing/)| 🌶️ 0.87|
