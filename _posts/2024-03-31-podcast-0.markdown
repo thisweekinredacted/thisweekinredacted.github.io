@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-03-31
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Consipiracy** | ⬆ 4463 | 💬 1290 |  [Why Would P Diddy Flee When Facing Charg...](/r/conspiracy/comments/1bntu9u/why_would_p_diddy_flee_when_facing_charges_for/)| 🌶️ 0.95|
+|**Aliens** | ⬆ 2823 | 💬 567 |  [UAP Observed from Cruise Ship in Gulf of...](/r/UFOs/comments/1bnkb62/uap_observed_from_cruise_ship_in_gulf_of_mexico/)| 🌶️ 0.89|
+|**Cryptozoology** | ⬆ 1782 | 💬 1089 |  [Serious question, why can't we get foota...](/r/bigfoot/comments/1bopi16/serious_question_why_cant_we_get_footage_like/)| 🌶️ 0.96|
+|**Paranormal** | ⬆ 567 | 💬 100 |  [My husband and I went to the Safari Park...](/r/GlitchInTheMatrix/comments/1bmb8yn/my_husband_and_i_went_to_the_safari_park_i_took/)| 🌶️ 0.92|
