@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-04-28
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Paranormal** | ⬆ 3691 | 💬 28 |  [Perfectly aligned...](/r/GlitchInTheMatrix/comments/1c5zveg/perfectly_aligned/)| 🌶️ 1.0|
+|**Consipiracy** | ⬆ 2683 | 💬 435 |  [California is a Failed State. ...](/r/conspiracy/comments/1c4v95m/california_is_a_failed_state/)| 🌶️ 0.84|
+|**Aliens** | ⬆ 2414 | 💬 1215 |  [What is this ?...](/r/UFOs/comments/1c4lin0/what_is_this/)| 🌶️ 0.74|
+|**Cryptozoology** | ⬆ 2167 | 💬 1051 |  [I was scrolling a British Columbia hikin...](/r/bigfoot/comments/1c7jtp0/i_was_scrolling_a_british_columbia_hiking_group/)| 🌶️ 0.89|
