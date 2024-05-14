@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-05-19
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 5454 | 💬 534 |  [Video evidence of a real UAP cloaking it...](/r/UFOs/comments/1cqcnxt/video_evidence_of_a_real_uap_cloaking_itself_and/)| 🌶️ 0.86|
+|**Consipiracy** | ⬆ 2782 | 💬 346 |  [who cares dat was like 4 years ago amiri...](/r/conspiracy/comments/1cmm1qw/who_cares_dat_was_like_4_years_ago_amirite/)| 🌶️ 0.79|
+|**Cryptozoology** | ⬆ 599 | 💬 164 |  [Bigfoot hand chewed by Cougar?...](/r/bigfoot/comments/1co5a3k/bigfoot_hand_chewed_by_cougar/)| 🌶️ 0.93|
+|**Paranormal** | ⬆ 530 | 💬 70 |  [And what are the odds that I now have a ...](/r/GlitchInTheMatrix/comments/1cmip1a/and_what_are_the_odds_that_i_now_have_a_set_of/)| 🌶️ 0.92|
