@@ -1,0 +1,14 @@
+---
+title: [Show Notes] # -1: Bootstrap
+layout: post
+date: 2024-05-26
+---
+*This week in Redacted* takes off with the upvoted posts from reddits most abnormal news.
+<style> td, th { border: none!important;} </style> <br>
+
+| **Highest Upvotes**              |               |               |               |               |
+| --- | --- | --- | --- | --- |
+|**Aliens** | ⬆ 4464 | 💬 851 |  [Pope to hold press conference on aliens ...](/r/UFOs/comments/1ctfn24/pope_to_hold_press_conference_on_aliens_and/)| 🌶️ 0.89|
+|**Consipiracy** | ⬆ 2866 | 💬 603 |  [That painting of Charlie is creepy, huh....](/r/conspiracy/comments/1cs4x7f/that_painting_of_charlie_is_creepy_huh_i_wonder/)| 🌶️ 0.87|
+|**Paranormal** | ⬆ 1602 | 💬 305 |  [New here. Alarmed. This just fell out of...](/r/GlitchInTheMatrix/comments/1cvct6t/new_here_alarmed_this_just_fell_out_of_my_ice/)| 🌶️ 0.95|
+|**Cryptozoology** | ⬆ 780 | 💬 292 |  [Forrest Galante recently shared these ph...](/r/Cryptozoology/comments/1cs2gze/forrest_galante_recently_shared_these_photos/)| 🌶️ 0.94|
