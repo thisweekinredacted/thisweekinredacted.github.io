@@ -8,7 +8,7 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 twitter_username: weeklyredacted
-github_username:  thisweekinredacted
+github_username: thisweekinredacted
 
 # Header Option
 header: large
@@ -24,14 +24,8 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
-
+      
 social:
-    github: thisweekinredacted
-    twitter: weeklyredacted
     email: redacted@thisweekinredacted.com
 
 google_analytics: "UA-58263416-1"
